@@ -54,7 +54,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello Valerie!<br>
+      Would you like to play a game?
     </section>
   </body>
 </html>
